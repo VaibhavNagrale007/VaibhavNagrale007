@@ -6,13 +6,21 @@
 
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47jwl43bvyq9ightt8pa92n5jtd1l2l1quledtal4j&rid=giphy.gif&ct=g">
 
+# 💫 About Me:
+🔭 I’m currently working on **SQL, Web Development and Competitive Coding.**<br>
+👯 I’m looking to collaborate on **different projects.**<br> 
+🌱 I’m currently learning **PGSQL.**<br>
+💬 Ask me about **SQL, C, C++, Web Development or about Linux.**
+
+<br><br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavnagrale007&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavnagrale007" /> </p>
 
 - 📫 How to reach me **nagralevaibhav007@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1X_Egi4dNyG7YkI9GCtGsYhCfKuwA8Auf/view?usp=sharing](https://drive.google.com/file/d/1X_Egi4dNyG7YkI9GCtGsYhCfKuwA8Auf/view?usp=sharing)
 
-<br><br>
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,7 +30,7 @@
 <a href="https://codeforces.com/profile/vxv007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="vxv007" height="30" width="40" /></a>
 </p>
 
-<br><br>
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
 
