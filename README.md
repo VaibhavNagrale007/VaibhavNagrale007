@@ -7,10 +7,10 @@
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47jwl43bvyq9ightt8pa92n5jtd1l2l1quledtal4j&rid=giphy.gif&ct=g">
 
 # 💫 About Me:
-🔭 I’m currently working on **SQL, Web Development and Competitive Coding.**<br>
+🔭 I’m currently working on **SQL, Web Dev and Coding.**<br>
 👯 I’m looking to collaborate on **different projects.**<br> 
 🌱 I’m currently learning **PGSQL.**<br>
-💬 Ask me about **SQL, C, C++, Web Development or about Linux.**
+💬 Ask me about **SQL, C, C++, Web Development or Linux.**
 
 <br><br>
 
