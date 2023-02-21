@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vaibhav-nagrale-7593a71bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav-nagrale-7593a71bb" height="30" width="40" /></a>
-<a href="https://fb.com/vaibhav nagrale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vaibhav nagrale" height="30" width="40" /></a>
+<a href="https://www.facebook.com/vaibhav.nagrale.58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vaibhav nagrale" height="30" width="40" /></a>
 <a href="https://instagram.com/vaibhavn007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vaibhavn007" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/vxv007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="vxv007" height="30" width="40" /></a>
 </p>
